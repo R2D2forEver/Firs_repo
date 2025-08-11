@@ -1,4 +1,2 @@
-print("hello World!")
-
-print("hello git ")
-print('test com')
+# введення ( отримання даних )
+iм_я = input("Введіть ваше ім'я: ")
